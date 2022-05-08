@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @getnaveens
+- 👀 I’m interested in Web Development, Software Development, Prototype Designing. 
+- 📫 How to reach me naveen@techsseract.com
